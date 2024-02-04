@@ -32,6 +32,13 @@ default, but once something is patched into VCF AUD IN, _only_ the patched
 signal reaches the filter. This allows the adaptor's mixer to fully control
 the signal levels.
 
+Note that JMP1 is simply a pair of through holes, and that after performing the
+mod, the solder joints & snipped ends of your wire jumper can short circuit
+against the Werkstatt's metal case, and cause the CV Expander board to bend
+upwards at one end when the mounting screws are fully tightened. After
+performing the mod, I recommend using a couple of plastic or nylon M3 spacers
+when re-mounting the Expander.
+
 This mod is officially documented, but in a document which is, for some reason,
 no longer linked from Moog's official Werkstatt-01 manuals page:
 
